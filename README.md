@@ -9,7 +9,7 @@ When I'm not coding, I enjoy various outdoor activities including but not limite
 
 ## Goals
 ---
-I have set a few goals to accomplish by the end of August which include...
+I have set a few goals to accomplish which include...
 - Create three (3) projects that will showcase my programming skills.
 - Create a portfolio site that will host these three projects.
 - Complete the Core portion on the CodeSignal Arcade coding problems.
