@@ -7,6 +7,8 @@ In my previous life, I have done a variety of jobs which included organic farmin
 
 When I'm not coding, I enjoy various outdoor activities including but not limited to hiking, daily walks, and campfires.
 
+I like to create things that will make people's lives better.
+
 ## Goals
 ---
 I have set a few goals to accomplish which include...
