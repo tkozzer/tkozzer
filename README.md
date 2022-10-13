@@ -1,7 +1,9 @@
-# Welcome 👋
+<h1 align="center">Welcome 👋</h1>
+<h2 align="center">I'm Tyler, a Software Developer from Wisconsin 🧀 </h2>
+<hr/>
 ![forestpic](https://user-images.githubusercontent.com/51497123/195495748-61678655-a2bd-4fe5-b710-8491833fb1e6.jpeg)
 
-## I'm Tyler, a Software Developer from Wisconsin 🧀
+
 
 I am a full-time student in the intensive 9-month backend development program at [Bloom Institute of Technology]([www.bloomtech.com/](https://www.bloomtech.com/courses/backend-development)) (formerly known as Lambda) and am looking forward to graduation in November 2022! 
 
