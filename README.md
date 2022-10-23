@@ -11,13 +11,13 @@
 
 I am a full-time student in the intensive 9-month backend development program at [Bloom Institute of Technology]([www.bloomtech.com/](https://www.bloomtech.com/courses/backend-development)) (formerly known as Lambda) and am looking forward to graduation in November 2022! 
 
-- 🔭 I’m currently working on [raffley](https://github.com/tkozzer/rafflely)
+- 🔭 I’m currently working on [rafflely](https://github.com/tkozzer/rafflely).
 
 - 🌱 I’m currently learning **Spring Boot**.
 
 - 🪛 I'm currently implementing a **Secure Remote Password Protocol** for rafflely.
 
-- 💬 Ask me about the Appalachian Trail
+- 💬 Ask me about the Appalachian Trail🏔.
 
 - 📫 How to reach me **Tyler.J.Kozlowski@gmail.com**
 
