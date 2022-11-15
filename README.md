@@ -15,8 +15,6 @@ I am a full-time student in the intensive 9-month backend development program at
 
 - 🌱 I’m currently learning **Spring Boot**.
 
-- 🪛 I'm currently implementing a **Secure Remote Password Protocol** for rafflely.
-
 - 💬 Ask me about the Appalachian Trail🏔.
 
 - 📫 How to reach me **Tyler.J.Kozlowski@gmail.com**
