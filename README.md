@@ -1,21 +1,15 @@
 <h1 align="center">Welcome 👋</h1>
 <h2 align="center">I'm Tyler, a Software Developer from Wisconsin 🧀 </h2> 
 
-![milkyway](https://user-images.githubusercontent.com/51497123/195724687-5a36576b-a753-4874-845f-95925d367104.jpeg)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkozzer&label=Profile%20views&color=0e75b6&style=flat" alt="tkozzer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tkozzer&theme=chalk" alt="tkozzer" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tkozdev" target="blank"><img src="https://img.shields.io/twitter/follow/tkozdev?logo=twitter&style=for-the-badge" alt="tkozdev" /></a> </p>
 
-I am a full-time student in the intensive 9-month backend development program at [Bloom Institute of Technology]([www.bloomtech.com/](https://www.bloomtech.com/courses/backend-development)) (formerly known as Lambda) and am looking forward to graduation in November 2022! 
+- 🔭 I’m currently working on [setlistfm-ts](https://github.com/tkozzer/setlistfm-ts).
 
-- 🔭 I’m currently working on [rafflely](https://github.com/tkozzer/rafflely).
-
-- 🌱 I’m currently learning **Spring Boot**.
-
-- 💬 Ask me about the Appalachian Trail🏔.
+- 🌱 I’m currently learning **React**.
 
 - 📫 How to reach me **Tyler.J.Kozlowski@gmail.com**
 
