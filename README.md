@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [setlistfm-ts](https://github.com/tkozzer/setlistfm-ts).
 
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **Nuxt**.
 
 - 📫 How to reach me **Tyler.J.Kozlowski@gmail.com**
 
