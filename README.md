@@ -1,54 +1,51 @@
-<h1 align="center">Welcome 👋</h1>
-<h2 align="center">I'm Tyler, a Software Developer from Wisconsin 🧀 </h2> 
+# 👋 Hi, I’m Tyler
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tkozzer&label=Profile%20views&color=0e75b6&style=flat" alt="tkozzer" /> </p>
+I'm a **software developer from Wisconsin** who followed an unconventional path into tech — before writing code I worked on an organic farm! Today I build back-end services and full-stack applications, experiment with large-language models, and enjoy learning new frameworks.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tkozzer&theme=chalk" alt="tkozzer" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/tkozdev" target="blank"><img src="https://img.shields.io/twitter/follow/tkozdev?logo=twitter&style=for-the-badge" alt="tkozdev" /></a> </p>
+## 🌟 What I’m working on
 
-- 🔭 I’m currently working on [setlistfm-ts](https://github.com/tkozzer/setlistfm-ts).
+- **[setlistfm-ts](https://github.com/tkozzer/setlistfm-ts)** – a TypeScript client for the setlist.fm API  
+- Experimenting with **Nuxt** and modern front-end tooling  
+- Exploring AI-assisted development workflows
 
-- 🌱 I’m currently learning **Nuxt**.
+---
 
-- 📫 How to reach me **Tyler.J.Kozlowski@gmail.com**
+## 🛠️ Tech I Use
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tkozdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tkozdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tylerkozlowski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tylerkozlowski/" height="30" width="40" /></a>
-</p>
+**Languages:** Java, TypeScript, JavaScript, Python, Rust, C#, HTML, CSS, Bash  
+**Frameworks & Libraries:** Spring Boot, Vue.js, Nuxt, Express.js, Node.js, Bootstrap  
+**Tools & Platforms:** AWS, Linux, Git, MySQL, Postman, Docker  
+**Other:** REST APIs, CI/CD, Agile development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkozzer&show_icons=true&locale=en&layout=compact" alt="tkozzer" /></p>
+## 📌 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkozzer&show_icons=true&locale=en" alt="tkozzer" /></p>
+| Project | Description | Tech |
+| ------- | ----------- | ---- |
+| [cursor-rules-cli](https://github.com/tkozzer/cursor-rules-cli) | CLI tool for managing Cursor IDE rules from GitHub repositories | Rust |
+| [cxc](https://github.com/tkozzer/cxc) | Chrome extension that color-codes X.com posts by age | Vue |
+| [nugs-radio-app](https://github.com/tkozzer/nugs-radio-app) | Vue + Express app for streaming free Nugs Radio with live track info | Vue, Node.js |
+| [nuxt-starter-template](https://github.com/tkozzer/nuxt-starter-template) | Full-stack Nuxt 3 starter with Drizzle ORM, shadcn-vue, TailwindCSS, Pinia | Vue, Nuxt, TypeScript |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkozzer&" alt="tkozzer" /></p>
-<!--
- 
+---
 
+## 📫 Let’s Connect
 
+- **Email:** tyler [dot] j [dot] kozlowski [at] gmail [dot] com  
+- **LinkedIn:** [linkedin.com/in/tylerkozlowski](https://www.linkedin.com/in/tylerkozlowski)  
+- **Twitter:** [@tkozdev](https://twitter.com/tkozdev)
 
+---
 
+## 📊 GitHub Stats
 
-I am a full-time student in the intensive 9-month backend development program at [Bloom Institute of Technology]([www.bloomtech.com/](https://www.bloomtech.com/courses/backend-development)) (formerly known as Lambda) and am looking forward to graduation in November 2022! 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tkozzer&show_icons=true&locale=en&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkozzer&show_icons=true&locale=en)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkozzer)
 
-- 🔨 I’m currently building on **rafflely**.
-- 🌱 I’m currently learning **Spring Boot**.
-- 🪛 I'm currently implementing a **Secure Remote Password Protocol** for rafflely.
-- 💬 Ask me about the Appalachian Trail
+---
 
-
-
-**tkozzer/tkozzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Thanks for visiting my profile!_
