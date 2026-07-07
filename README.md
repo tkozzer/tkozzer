@@ -28,6 +28,5 @@ Before tech I worked on an organic farm, so I tend to care about software that t
 
 ## Connect
 
-- Email: tyler [dot] j [dot] kozlowski [at] gmail [dot] com
 - LinkedIn: [linkedin.com/in/tylerkozlowski](https://www.linkedin.com/in/tylerkozlowski)
 - X: [@tkozdev](https://twitter.com/tkozdev)
