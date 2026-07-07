@@ -22,10 +22,8 @@ Before tech I worked on an organic farm, so I tend to care about software that t
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
 | [setlistfm-ts](https://github.com/tkozzer/setlistfm-ts) | Type-safe TypeScript client for the setlist.fm API | TypeScript |
-| [cursor-rules-cli](https://github.com/tkozzer/cursor-rules-cli) | Rust CLI for managing Cursor IDE rules from GitHub repositories | Rust |
 | [cxc](https://github.com/tkozzer/cxc) | Chrome extension that color-codes X.com posts by age | Vue |
 | [nuxt-starter-template](https://github.com/tkozzer/nuxt-starter-template) | Nuxt 3 starter with Drizzle ORM, shadcn-vue, Tailwind CSS, and Pinia | Vue, Nuxt, TypeScript |
-| [nugs-radio-app](https://github.com/tkozzer/nugs-radio-app) | Vue + Express app for streaming free Nugs Radio with live track info | Vue, Node.js |
 | [sleepstack](https://github.com/tkozzer/sleepstack) | Python CLI for generating binaural beats and ambient sleep/focus tracks | Python |
 
 ## Connect
